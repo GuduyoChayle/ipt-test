@@ -8,4 +8,5 @@ int main() {
 	
 	print("I'm Mercado -edited");
 
+        print("sample for stash")
 }
