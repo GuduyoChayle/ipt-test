@@ -6,7 +6,7 @@ int main() {
 	
 	printf("Im Anthony");
 	
-	print("I'm Mercado -edited");
+	print("I'm Mercado");
 
-        print("sample for stash")
+        print("sample for stash -edited")
 }
